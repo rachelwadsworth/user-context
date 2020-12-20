@@ -1,6 +1,6 @@
 import './App.css';
 import { Container } from 'semantic-ui-react';
-import Navbar from './components/NavBar';
+import Navbar from './components/Navbar';
 import { Route } from 'react-router-dom';
 import User from './components/User';
 
